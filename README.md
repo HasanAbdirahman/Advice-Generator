@@ -7,7 +7,7 @@
 
 ## SCREENSHOT
 
-![Main Page](https://imgur.com/R26N4pC.jpg)
+![Main Page](https://imgur.com/jeeukfd.jpg)
 
 ## TECHNOLOGIES USED
 
