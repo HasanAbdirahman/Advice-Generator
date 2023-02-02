@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- displays site properly based on user's device -->
+
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./images/favicon-32x32.png"
+    />
+    <link rel="stylesheet" href="styles.css" />
+    <title>Frontend Mentor | Advice generator app</title>
+
+    <!-- font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;800&display=swap"
+      rel="stylesheet"
+    />
+    <!--  👍 -->
+  </head>
+  <body>
+    <div class="container">
+     
+      <!-- Advice ID goes here -->
+      <h6 id="advice-number">ADVICE <span class="num"></span></h6>
+
+      <!-- Advice text goes here -->
+      <div class="advice-text">
+        <p class="text" style="color: white"></p>
+      </div>
+
+      <div class="line-pause">...............<span>⏸️</span>................</div>
+      <button class="dice-container">
+        <img class="advice-photo" src="/dice.png" alt="dice icon" />
+      </button>
+    </div>
+
+    
+    <script src="main.js"></script>
+  </body>
+</html>
