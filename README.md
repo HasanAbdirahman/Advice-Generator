@@ -17,4 +17,4 @@
 * API
 
 
-[The site can be found](https://clever-muffin-0e76ef.netlify.app/)
+The site can be found [here](https://clever-muffin-0e76ef.netlify.app/)
