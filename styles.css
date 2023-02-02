@@ -49,8 +49,6 @@ body {
 }
 .dice-container:hover {
   cursor: pointer;
-  /* box-shadow: ; */
-  /* box-shadow: 1px -17px 19px 1px var(--NeonGreen); */
 }
 .advice-photo {
   height: 25px;
