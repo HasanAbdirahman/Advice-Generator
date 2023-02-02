@@ -2,7 +2,8 @@
 
 #### Description
 
-* This is a website that that gives users random quote from advice lip
+* This is a website that that gives users random quote from advice-lip.
+* All a user has to do is just click the dice and gets amazing quotes
 
 ## TECHNOLOGIES USED
 
